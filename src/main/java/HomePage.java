@@ -18,7 +18,5 @@ public class HomePage {
         PageFactory.initElements(driver,this);
 
 
-        //https://github.com/deelambo/JenkinsTestDemo.git
-
     }
 }
