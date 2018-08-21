@@ -25,7 +25,7 @@ public class TestHomePage {
         homePage.beatslinkText.click();
 
         driver.close();
-
+      //https://github.com/deelambo/JenkinsTestDemo.git
       //Assert.assertTrue(true,driver.getTitle());
     }
 
